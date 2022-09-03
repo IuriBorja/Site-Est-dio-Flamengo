@@ -9,3 +9,7 @@ li {
     display: inline-block;
     margin: 20px;
 }
+
+.logo{
+    flex-direction: column;
+}
